@@ -17,3 +17,4 @@
 - ***design fee admin : 3.000 (3k)***
 - ***design price dm : 4.000 (4k)***
 - ***design result : 1.500 (1.5k)***
+─ ָ ๋ ֢📢⊹ note
