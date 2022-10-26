@@ -17,4 +17,5 @@
 - ***design fee admin : 3.000 (3k)***
 - ***design price dm : 4.000 (4k)***
 - ***design result : 1.500 (1.5k)***
-> [x] *NOTE*: Admin juga menyediakan 1pack file plp khusus store
+> *NOTE*: Admin juga menyediakan 1pack file plp khusus store
+---
