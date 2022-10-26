@@ -6,4 +6,4 @@
         />
     </a>
 
-# store by sxyastore
+# ```store by sxyastore```
